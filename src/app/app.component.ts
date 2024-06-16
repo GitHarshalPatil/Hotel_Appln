@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'HotelAppln';
+  
+//   lodedFeature='recipe';
+//   onNavigate(feature:string){
+// this.lodedFeature=feature;
+//   }
 }
